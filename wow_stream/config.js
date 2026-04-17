@@ -9,20 +9,20 @@ const CONFIG = {
 
   // ── IDENTITÉ ────────────────────────────────────────────────
   streamer: {
-    pseudo:       "TonPseudo",
+    pseudo:       "",
     guilde:       "",                   // Ex: "Les Gardiens d'Azeroth" — laisser vide pour masquer
-    serveur:      "Ysondre — EU",
-    classe:       "Démoniste",          // Classe WoW affichée
-    faction:      "horde",              // "horde" ou "alliance"
-    contenu:      "Mythic+ / PvP",      // Contenu du jour
+    serveur:      "",
+    classe:       "",          // Classe WoW affichée
+    faction:      "",              // "horde" ou "alliance"
+    contenu:      "",      // Contenu du jour
   },
 
   // ── RÉSEAUX SOCIAUX ─────────────────────────────────────────
   socials: {
-    twitch:   "twitch.tv/tonpseudo",
-    discord:  "discord.gg/tonserveur",
-    twitter:  "@tonpseudo",
-    youtube:  "youtube.com/@tonpseudo",
+    twitch:   "",
+    discord:  "",
+    twitter:  "",
+    youtube:  "",
     tiktok:   "",                       // Laisser vide pour masquer
   },
 
@@ -30,31 +30,31 @@ const CONFIG = {
   overlays: {
 
     debut: {
-      titre:      "LE LIVE COMMENCE",
-      sousTitre:  "Prépare-toi au combat",
-      tagline:    "Azeroth Chronicles • Stream",
-      badge:      "EN DIRECT",
+      titre:      "",
+      sousTitre:  "",
+      tagline:    "",
+      badge:      ",
     },
 
     enjeu: {
-      objectifTitre:  "Objectif",
-      objectifLigne1: "Mythic+ niveau 15",
-      objectifLigne2: "Donjon : Le Nid de Vipères",
-      commandes: ["!build", "!discord", "!social", "!commandes"],
+      objectifTitre:  "",
+      objectifLigne1: "",
+      objectifLigne2: "",
+      commandes: ["", "", "", ""],
     },
 
     pause: {
-      titre:      "PAUSE",
-      sousTitre:  "De retour dans un instant…",
-      message:    "Prends un verre, on revient vite !",
-      contenuCarte: "Mythic+",
+      titre:      "",
+      sousTitre:  "",
+      message:    " !",
+      contenuCarte: "",
     },
 
     fin: {
-      titre:      "À BIENTÔT",
-      sousTitre:  "Merci d'avoir regardé le live",
-      message:    "Gloire aux braves d'Azeroth",
-      cta:        "Suivez pour ne rien manquer !",
+      titre:      "",
+      sousTitre:  "",
+      message:    "",
+      cta:        "",
     },
 
   },
