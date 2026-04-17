@@ -10,7 +10,7 @@ const CONFIG = {
   // ── IDENTITÉ ────────────────────────────────────────────────
   streamer: {
     pseudo:       "TonPseudo",
-    guilde:       "<Nom de Guilde>",
+    guilde:       "",                   // Ex: "Les Gardiens d'Azeroth" — laisser vide pour masquer
     serveur:      "Ysondre — EU",
     classe:       "Démoniste",          // Classe WoW affichée
     faction:      "horde",              // "horde" ou "alliance"
