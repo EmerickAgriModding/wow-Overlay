@@ -134,4 +134,4 @@ Pour changer : `overlay_pause.html?brb_secs=600` (= 10 min)
 
 ---
 
-*WoW Stream Overlay — Fait avec ⚔ pour la communauté WoW*
+*WoW Stream Overlay — Fait avec ⚔ pour la EmerickModdingElite*
